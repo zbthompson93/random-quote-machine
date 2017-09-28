@@ -1,0 +1,24 @@
+body {
+  00background-color: purple;
+  color: white;
+}
+#black-background {
+  background-color: black;
+  margin: 70px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+}
+#quote {
+  font-size: 50px;
+}
+#author {
+  font-size: 25px;
+  color: red;
+}
+#getQuote {
+  background-color: white;
+}
+#tweet {
+  background-color: white;
+}
